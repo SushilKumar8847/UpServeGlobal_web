@@ -1,0 +1,2 @@
+rootProject.name = "UpServe Global"
+include ':app'
